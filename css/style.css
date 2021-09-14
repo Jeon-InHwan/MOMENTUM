@@ -135,7 +135,7 @@ div#clockDiv {
 
 #quote {
     display: block;
-    position: fixed;
+    position: absolute;
     top: 40px;
     width: 100%;
     right: 0px;
